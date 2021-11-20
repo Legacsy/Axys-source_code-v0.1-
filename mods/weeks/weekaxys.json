@@ -1,0 +1,48 @@
+{
+	"storyName": "axys",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"axys",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Masked",
+			"axys",
+			[
+				95,
+				95,
+				115
+			]
+		],
+		[
+			"un-masked",
+			"angry_axys",
+			[
+				20,
+				20,
+				20
+			]
+		],
+		[
+			"recover",
+			"axys",
+			[
+				100,
+				100,
+				140
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Menu_axys",
+	"image": "Menu_axys",
+	"position": [
+		0,
+		44
+	],
+	"scale": 0.8,
+	"confirm_anim": "M Dad Idle"
+}
