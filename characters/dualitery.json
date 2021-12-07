@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "dualitery idle"
+		},
+		{
+			"offsets": [
+				29,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "dualitery leftNOTE"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "dualitery rightNOTE"
+		},
+		{
+			"offsets": [
+				-20,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dualitery downNOTE"
+		},
+		{
+			"offsets": [
+				1,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "dualitery upNOTE"
+		},
+		{
+			"offsets": [
+				16,
+				0
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "attack",
+			"loop": false,
+			"name": "dualitery ATTACK"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dualitery",
+	"position": [
+		-130,
+		130
+	],
+	"healthicon": "dualitery",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		85,
+		82
+	],
+	"camera_position": [
+		30,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

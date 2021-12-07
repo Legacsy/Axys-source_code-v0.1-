@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SBF.png"><SubTexture name="SBF idle0000" x="0" y="0" width="472" height="496" frameX="0" frameY="0" frameWidth="472" frameHeight="496" />
+<SubTexture name="SBF idle0001" x="472" y="0" width="472" height="496" frameX="0" frameY="0" frameWidth="472" frameHeight="496" />
+<SubTexture name="SBF idle0002" x="944" y="0" width="472" height="496" frameX="0" frameY="0" frameWidth="472" frameHeight="496" />
+<SubTexture name="SBF idle0003" x="1416" y="0" width="472" height="496" frameX="0" frameY="0" frameWidth="472" frameHeight="496" />
+<SubTexture name="SBF idle0004" x="1888" y="0" width="472" height="496" frameX="0" frameY="0" frameWidth="472" frameHeight="496" />
+<SubTexture name="SBF down0000" x="0" y="496" width="472" height="496" frameX="0" frameY="0" frameWidth="472" frameHeight="496" />
+<SubTexture name="SBF down0001" x="472" y="496" width="472" height="496" frameX="0" frameY="0" frameWidth="472" frameHeight="496" />
+<SubTexture name="SBF down0002" x="944" y="496" width="472" height="496" frameX="0" frameY="0" frameWidth="472" frameHeight="496" />
+<SubTexture name="SBF up0000" x="1416" y="496" width="472" height="496" frameX="0" frameY="0" frameWidth="472" frameHeight="496" />
+<SubTexture name="SBF up0001" x="1888" y="496" width="472" height="496" frameX="0" frameY="0" frameWidth="472" frameHeight="496" />
+<SubTexture name="SBF up0002" x="0" y="992" width="472" height="496" frameX="0" frameY="0" frameWidth="472" frameHeight="496" />
+<SubTexture name="SBF left0000" x="472" y="992" width="472" height="496" frameX="0" frameY="0" frameWidth="472" frameHeight="496" />
+<SubTexture name="SBF left0001" x="944" y="992" width="472" height="496" frameX="0" frameY="0" frameWidth="472" frameHeight="496" />
+<SubTexture name="SBF left0002" x="1416" y="992" width="472" height="496" frameX="0" frameY="0" frameWidth="472" frameHeight="496" />
+<SubTexture name="SBF right0000" x="1888" y="992" width="472" height="496" frameX="0" frameY="0" frameWidth="472" frameHeight="496" />
+<SubTexture name="SBF right0001" x="0" y="1488" width="472" height="496" frameX="0" frameY="0" frameWidth="472" frameHeight="496" />
+<SubTexture name="SBF right0002" x="472" y="1488" width="472" height="496" frameX="0" frameY="0" frameWidth="472" frameHeight="496" />
+<SubTexture name="SBF MISS DOWN0000" x="944" y="1488" width="472" height="496" frameX="0" frameY="0" frameWidth="472" frameHeight="496" />
+<SubTexture name="SBF MISS DOWN0001" x="1416" y="1488" width="472" height="496" frameX="0" frameY="0" frameWidth="472" frameHeight="496" />
+<SubTexture name="SBF MISS UP0000" x="1888" y="1488" width="472" height="496" frameX="0" frameY="0" frameWidth="472" frameHeight="496" />
+<SubTexture name="SBF MISS UP0001" x="0" y="1984" width="472" height="496" frameX="0" frameY="0" frameWidth="472" frameHeight="496" />
+<SubTexture name="SBF MISS LEFT0000" x="472" y="1984" width="472" height="496" frameX="0" frameY="0" frameWidth="472" frameHeight="496" />
+<SubTexture name="SBF MISS LEFT0001" x="944" y="1984" width="472" height="496" frameX="0" frameY="0" frameWidth="472" frameHeight="496" />
+<SubTexture name="SBF MISS RIGHT0000" x="1416" y="1984" width="472" height="496" frameX="0" frameY="0" frameWidth="472" frameHeight="496" />
+<SubTexture name="SBF MISS RIGHT0001" x="1888" y="1984" width="472" height="496" frameX="0" frameY="0" frameWidth="472" frameHeight="496" />
+</TextureAtlas>

@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		210,
+		180
+	],
+	"scale": 2.15,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-3,
+				-1
+			],
+			"loop_name": "hashtag_portrait Neutral",
+			"idle_name": "hashtag_portrait neutralIdle"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "hashtag_portrait Angry",
+			"idle_name": "hashtag_portrait angryIdle"
+		},
+		{
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-2,
+				0
+			],
+			"loop_name": "hashtag_portrait Scared",
+			"idle_name": "hashtag_portrait scaredIdle"
+		},
+		{
+			"loop_name": "hashtag_portrait Meh",
+			"idle_offsets": [
+				-3,
+				0
+			],
+			"idle_name": "hashtag_portrait mehIdle",
+			"anim": "meh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "hashtag_portrait"
+}

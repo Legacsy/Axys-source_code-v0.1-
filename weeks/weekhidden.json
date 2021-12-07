@@ -1,0 +1,48 @@
+{
+	"storyName": "dual itery lol",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"dualitery",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"survivors",
+			"dualitery",
+			[
+				206,
+				93,
+				93
+			]
+		],
+		[
+			"wrench",
+			"dualitery",
+			[
+				206,
+				93,
+				93
+			]
+		],
+		[
+			"builderman",
+			"dualitery",
+			[
+				206,
+				93,
+				93
+			]
+		]
+	],
+	"weekName": "Custom Week"
+}

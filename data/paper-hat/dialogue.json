@@ -1,0 +1,158 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "booop?"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh we got guests!"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "meh",
+			"text": "well. I have guests"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep?"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh, who am i?"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "my friends call me Dreigon but you can call me Hashtag"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hashtag coolswag"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "meh",
+			"text": "yeah i get those puns very often.."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so what is the reason of your visit?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "we were just trying to get out of this strange dimension"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i know this world is very weird but, i can show you the cool thing about it.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bap boop skeed..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i guess we could try..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "but our last encounter in this world didn't go very well..."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "it happens. anyways what do you want to do first?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "skeed bo dap"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "rap battle?"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i guess i could try but i'm not a great singer tho. just warning you.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "bep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "there's no problem with that.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ba pob"
+		}
+	]
+}

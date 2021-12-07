@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="crosslinePeopleBack.png"><SubTexture name="crosslinePeopleBack idle0000" x="0" y="0" width="1982" height="675" frameX="0" frameY="0" frameWidth="1982" frameHeight="675" />
+<SubTexture name="crosslinePeopleBack idle0001" x="1982" y="0" width="1982" height="675" frameX="0" frameY="0" frameWidth="1982" frameHeight="675" />
+<SubTexture name="crosslinePeopleBack idle0002" x="0" y="675" width="1982" height="675" frameX="0" frameY="0" frameWidth="1982" frameHeight="675" />
+<SubTexture name="crosslinePeopleBack idle0003" x="1982" y="675" width="1982" height="675" frameX="0" frameY="0" frameWidth="1982" frameHeight="675" />
+<SubTexture name="crosslinePeopleBack idle0003" x="1982" y="675" width="1982" height="675" frameX="0" frameY="0" frameWidth="1982" frameHeight="675" />
+<SubTexture name="crosslinePeopleBack idle0004" x="1982" y="675" width="1982" height="675" frameX="0" frameY="0" frameWidth="1982" frameHeight="675" />
+<SubTexture name="crosslinePeopleBack idle0005" x="1982" y="675" width="1982" height="675" frameX="0" frameY="0" frameWidth="1982" frameHeight="675" />
+<SubTexture name="crosslinePeopleBack idle0006" x="1982" y="675" width="1982" height="675" frameX="0" frameY="0" frameWidth="1982" frameHeight="675" />
+<SubTexture name="crosslinePeopleBack idle0007" x="1982" y="675" width="1982" height="675" frameX="0" frameY="0" frameWidth="1982" frameHeight="675" />
+</TextureAtlas>

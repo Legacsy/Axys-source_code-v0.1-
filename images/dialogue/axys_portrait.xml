@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="axys_portrait.png"><SubTexture name="axys_portrait Neutral0000" x="0" y="0" width="163" height="214" frameX="0" frameY="0" frameWidth="163" frameHeight="214" />
+<SubTexture name="axys_portrait Suprised0000" x="163" y="0" width="163" height="214" frameX="0" frameY="0" frameWidth="163" frameHeight="214" />
+<SubTexture name="axys_portrait Angry0000" x="0" y="214" width="163" height="214" frameX="0" frameY="0" frameWidth="163" frameHeight="214" />
+<SubTexture name="axys_portrait Uh oh0000" x="163" y="214" width="163" height="214" frameX="0" frameY="0" frameWidth="163" frameHeight="214" />
+</TextureAtlas>

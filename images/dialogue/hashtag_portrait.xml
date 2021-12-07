@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hashtag_portrait.png"><SubTexture name="hashtag_portrait Neutral0000" x="0" y="0" width="164" height="179" frameX="0" frameY="0" frameWidth="164" frameHeight="179" />
+<SubTexture name="hashtag_portrait Neutral0001" x="164" y="0" width="164" height="179" frameX="0" frameY="0" frameWidth="164" frameHeight="179" />
+<SubTexture name="hashtag_portrait Neutral0002" x="328" y="0" width="164" height="179" frameX="0" frameY="0" frameWidth="164" frameHeight="179" />
+<SubTexture name="hashtag_portrait Meh0000" x="492" y="0" width="164" height="179" frameX="0" frameY="0" frameWidth="164" frameHeight="179" />
+<SubTexture name="hashtag_portrait Meh0001" x="0" y="179" width="164" height="179" frameX="0" frameY="0" frameWidth="164" frameHeight="179" />
+<SubTexture name="hashtag_portrait Meh0002" x="164" y="179" width="164" height="179" frameX="0" frameY="0" frameWidth="164" frameHeight="179" />
+<SubTexture name="hashtag_portrait Angry0000" x="328" y="179" width="164" height="179" frameX="0" frameY="0" frameWidth="164" frameHeight="179" />
+<SubTexture name="hashtag_portrait Angry0001" x="492" y="179" width="164" height="179" frameX="0" frameY="0" frameWidth="164" frameHeight="179" />
+<SubTexture name="hashtag_portrait Angry0002" x="0" y="358" width="164" height="179" frameX="0" frameY="0" frameWidth="164" frameHeight="179" />
+<SubTexture name="hashtag_portrait Scared0000" x="164" y="358" width="164" height="179" frameX="0" frameY="0" frameWidth="164" frameHeight="179" />
+<SubTexture name="hashtag_portrait Scared0001" x="328" y="358" width="164" height="179" frameX="0" frameY="0" frameWidth="164" frameHeight="179" />
+<SubTexture name="hashtag_portrait Scared0002" x="492" y="358" width="164" height="179" frameX="0" frameY="0" frameWidth="164" frameHeight="179" />
+<SubTexture name="hashtag_portrait neutralIdle0000" x="0" y="537" width="164" height="179" frameX="0" frameY="0" frameWidth="164" frameHeight="179" />
+<SubTexture name="hashtag_portrait mehIdle0000" x="164" y="537" width="164" height="179" frameX="0" frameY="0" frameWidth="164" frameHeight="179" />
+<SubTexture name="hashtag_portrait angryIdle0000" x="328" y="537" width="164" height="179" frameX="0" frameY="0" frameWidth="164" frameHeight="179" />
+<SubTexture name="hashtag_portrait scaredIdle0000" x="492" y="537" width="164" height="179" frameX="0" frameY="0" frameWidth="164" frameHeight="179" />
+</TextureAtlas>

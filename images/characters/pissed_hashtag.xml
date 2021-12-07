@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pissed_hashtag.png"><SubTexture name="pissed_hashtag normalDOWN0000" x="0" y="0" width="181" height="380" frameX="0" frameY="0" frameWidth="181" frameHeight="380" />
+<SubTexture name="pissed_hashtag normalDOWN0001" x="181" y="0" width="181" height="380" frameX="0" frameY="0" frameWidth="181" frameHeight="380" />
+<SubTexture name="pissed_hashtag normalDOWN0002" x="362" y="0" width="181" height="380" frameX="0" frameY="0" frameWidth="181" frameHeight="380" />
+<SubTexture name="pissed_hashtag normalIDLE0000" x="543" y="0" width="185" height="395" frameX="0" frameY="0" frameWidth="185" frameHeight="395" />
+<SubTexture name="pissed_hashtag normalIDLE0001" x="728" y="0" width="185" height="395" frameX="0" frameY="0" frameWidth="185" frameHeight="395" />
+<SubTexture name="pissed_hashtag normalIDLE0002" x="913" y="0" width="185" height="395" frameX="0" frameY="0" frameWidth="185" frameHeight="395" />
+<SubTexture name="pissed_hashtag normalIDLE0003" x="0" y="395" width="185" height="395" frameX="0" frameY="0" frameWidth="185" frameHeight="395" />
+<SubTexture name="pissed_hashtag normalLEFT0000" x="185" y="395" width="184" height="387" frameX="0" frameY="0" frameWidth="184" frameHeight="387" />
+<SubTexture name="pissed_hashtag normalLEFT0001" x="369" y="395" width="184" height="387" frameX="0" frameY="0" frameWidth="184" frameHeight="387" />
+<SubTexture name="pissed_hashtag normalLEFT0002" x="553" y="395" width="184" height="387" frameX="0" frameY="0" frameWidth="184" frameHeight="387" />
+<SubTexture name="pissed_hashtag normalLEFT0003" x="737" y="395" width="184" height="387" frameX="0" frameY="0" frameWidth="184" frameHeight="387" />
+<SubTexture name="pissed_hashtag normalRIGHT0000" x="921" y="395" width="186" height="389" frameX="0" frameY="0" frameWidth="186" frameHeight="389" />
+<SubTexture name="pissed_hashtag normalRIGHT0001" x="0" y="790" width="186" height="389" frameX="0" frameY="0" frameWidth="186" frameHeight="389" />
+<SubTexture name="pissed_hashtag normalRIGHT0002" x="186" y="790" width="186" height="389" frameX="0" frameY="0" frameWidth="186" frameHeight="389" />
+<SubTexture name="pissed_hashtag normalUP0000" x="372" y="790" width="176" height="398" frameX="0" frameY="0" frameWidth="176" frameHeight="398" />
+<SubTexture name="pissed_hashtag normalUP0001" x="548" y="790" width="176" height="398" frameX="0" frameY="0" frameWidth="176" frameHeight="398" />
+<SubTexture name="pissed_hashtag normalUP0002" x="724" y="790" width="176" height="398" frameX="0" frameY="0" frameWidth="176" frameHeight="398" />
+<SubTexture name="pissed_hashtag crazyDOWN0000" x="900" y="790" width="208" height="366" frameX="0" frameY="0" frameWidth="208" frameHeight="366" />
+<SubTexture name="pissed_hashtag crazyDOWN0001" x="0" y="1188" width="208" height="366" frameX="0" frameY="0" frameWidth="208" frameHeight="366" />
+<SubTexture name="pissed_hashtag crazyDOWN0002" x="208" y="1188" width="208" height="366" frameX="0" frameY="0" frameWidth="208" frameHeight="366" />
+<SubTexture name="pissed_hashtag crazyIDLE0000" x="416" y="1188" width="196" height="395" frameX="0" frameY="0" frameWidth="196" frameHeight="395" />
+<SubTexture name="pissed_hashtag crazyIDLE0001" x="612" y="1188" width="196" height="395" frameX="0" frameY="0" frameWidth="196" frameHeight="395" />
+<SubTexture name="pissed_hashtag crazyIDLE0002" x="808" y="1188" width="196" height="395" frameX="0" frameY="0" frameWidth="196" frameHeight="395" />
+<SubTexture name="pissed_hashtag crazyIDLE0003" x="1004" y="1188" width="196" height="395" frameX="0" frameY="0" frameWidth="196" frameHeight="395" />
+<SubTexture name="pissed_hashtag crazyIDLE0004" x="0" y="1583" width="196" height="395" frameX="0" frameY="0" frameWidth="196" frameHeight="395" />
+<SubTexture name="pissed_hashtag crazyIDLE0005" x="196" y="1583" width="196" height="395" frameX="0" frameY="0" frameWidth="196" frameHeight="395" />
+<SubTexture name="pissed_hashtag crazyIDLE0006" x="392" y="1583" width="196" height="395" frameX="0" frameY="0" frameWidth="196" frameHeight="395" />
+<SubTexture name="pissed_hashtag crazyIDLE0007" x="588" y="1583" width="196" height="395" frameX="0" frameY="0" frameWidth="196" frameHeight="395" />
+<SubTexture name="pissed_hashtag crazyIDLE0008" x="784" y="1583" width="196" height="395" frameX="0" frameY="0" frameWidth="196" frameHeight="395" />
+<SubTexture name="pissed_hashtag crazyLEFT0000" x="980" y="1583" width="193" height="376" frameX="0" frameY="0" frameWidth="193" frameHeight="376" />
+<SubTexture name="pissed_hashtag crazyLEFT0001" x="0" y="1978" width="193" height="376" frameX="0" frameY="0" frameWidth="193" frameHeight="376" />
+<SubTexture name="pissed_hashtag crazyLEFT0002" x="193" y="1978" width="193" height="376" frameX="0" frameY="0" frameWidth="193" frameHeight="376" />
+<SubTexture name="pissed_hashtag crazyLEFT0003" x="386" y="1978" width="193" height="376" frameX="0" frameY="0" frameWidth="193" frameHeight="376" />
+<SubTexture name="pissed_hashtag crazyRIGHT0000" x="579" y="1978" width="215" height="398" frameX="0" frameY="0" frameWidth="215" frameHeight="398" />
+<SubTexture name="pissed_hashtag crazyRIGHT0001" x="794" y="1978" width="215" height="398" frameX="0" frameY="0" frameWidth="215" frameHeight="398" />
+<SubTexture name="pissed_hashtag crazyRIGHT0002" x="1009" y="1978" width="215" height="398" frameX="0" frameY="0" frameWidth="215" frameHeight="398" />
+<SubTexture name="pissed_hashtag crazyUP0000" x="0" y="2376" width="222" height="390" frameX="0" frameY="0" frameWidth="222" frameHeight="390" />
+<SubTexture name="pissed_hashtag crazyUP0001" x="222" y="2376" width="222" height="390" frameX="0" frameY="0" frameWidth="222" frameHeight="390" />
+<SubTexture name="pissed_hashtag crazyUP0002" x="444" y="2376" width="222" height="390" frameX="0" frameY="0" frameWidth="222" frameHeight="390" />
+</TextureAtlas>

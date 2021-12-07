@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-243
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "angry_axys Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-270,
+				-196
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "angry_axys normal down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-269,
+				-186
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "angry_axys normal up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-140,
+				-110
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "angry_axys altUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-267,
+				-134
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "angry_axys normal right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-240,
+				-256
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "angry_axys altRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-280,
+				-360
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "angry_axys altDown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-270,
+				-180
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "angry_axys Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/angry_axys",
+	"position": [
+		0,
+		40
+	],
+	"healthicon": "angry_axys",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		40,
+		60
+	],
+	"camera_position": [
+		300,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 1.7
+}

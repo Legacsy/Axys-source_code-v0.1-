@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-106,
+				-213
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Axys Left"
+		},
+		{
+			"offsets": [
+				-198,
+				-244
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Axys Right"
+		},
+		{
+			"offsets": [
+				-140,
+				-310
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Axys Down"
+		},
+		{
+			"offsets": [
+				-86,
+				-175
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Axys Up"
+		},
+		{
+			"offsets": [
+				-200,
+				-210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Axys Ide"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Axys",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "axys",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		255,
+		255
+	],
+	"camera_position": [
+		60,
+		260
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

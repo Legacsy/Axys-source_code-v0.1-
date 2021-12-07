@@ -1,0 +1,48 @@
+{
+	"storyName": "axys top hat now available",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"axys",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"blank",
+			"axys",
+			[
+				95,
+				95,
+				95
+			]
+		],
+		[
+			"masked",
+			"axys",
+			[
+				75,
+				75,
+				75
+			]
+		],
+		[
+			"un-masked",
+			"angry_axys",
+			[
+				35,
+				35,
+				35
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

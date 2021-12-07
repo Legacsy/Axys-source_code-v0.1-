@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="crosslinePeopleFront.png"><SubTexture name="crosslinePeopleFront idle0000" x="0" y="0" width="1853" height="686" frameX="0" frameY="0" frameWidth="1853" frameHeight="686" />
+<SubTexture name="crosslinePeopleFront idle0001" x="1853" y="0" width="1853" height="686" frameX="0" frameY="0" frameWidth="1853" frameHeight="686" />
+<SubTexture name="crosslinePeopleFront idle0002" x="0" y="686" width="1853" height="686" frameX="0" frameY="0" frameWidth="1853" frameHeight="686" />
+<SubTexture name="crosslinePeopleFront idle0003" x="1853" y="686" width="1853" height="686" frameX="0" frameY="0" frameWidth="1853" frameHeight="686" />
+<SubTexture name="crosslinePeopleFront idle0004" x="1853" y="686" width="1853" height="686" frameX="0" frameY="0" frameWidth="1853" frameHeight="686" />
+<SubTexture name="crosslinePeopleFront idle0005" x="1853" y="686" width="1853" height="686" frameX="0" frameY="0" frameWidth="1853" frameHeight="686" />
+<SubTexture name="crosslinePeopleFront idle0006" x="1853" y="686" width="1853" height="686" frameX="0" frameY="0" frameWidth="1853" frameHeight="686" />
+<SubTexture name="crosslinePeopleFront idle0007" x="1853" y="686" width="1853" height="686" frameX="0" frameY="0" frameWidth="1853" frameHeight="686" />
+
+</TextureAtlas>

@@ -1,0 +1,109 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.045,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wow dude your rapping skills are mad!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bap"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "meh",
+			"text": "but tell me.."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "was it nescessary to punch me with your microphone?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "i'm very sorry.. he's like that very often.."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "nah it is okay.."
+		},
+		{
+			"speed": 0.045,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "people in this world don't get mad for that kind of stuff"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ba do skede beep bap bip?"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "why are you suddenly so mean!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "guys.. can you chill out?..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "boope bip baap"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "that's it!"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "hashtag",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "i tried to be nice with you but seems like you don't want to!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "guys?..."
+		}
+	]
+}

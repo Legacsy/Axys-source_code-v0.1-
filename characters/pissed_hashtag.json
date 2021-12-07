@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-233,
+				-243
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pissed_hashtag normalLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-249,
+				-240
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "pissed_hashtag normalRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-251,
+				-253
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "pissed_hashtag normalDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-251,
+				-226
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pissed_hashtag normalUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-244,
+				-273
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "pissed_hashtag crazyDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-212,
+				-259
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "pissed_hashtag crazyLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-241,
+				-227
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "pissed_hashtag crazyRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-205,
+				-239
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "pissed_hashtag crazyUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-237,
+				-231
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "pissed_hashtag crazyIDLE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-251,
+				-230
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "idle",
+			"loop": false,
+			"name": "pissed_hashtag normalIDLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pissed_hashtag",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "pissed_hashtag",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		100,
+		100
+	],
+	"camera_position": [
+		260,
+		190
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}
